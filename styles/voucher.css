@@ -1,0 +1,31 @@
+#navbar{
+    height: 100px;
+   width: 100%;
+   border: 1px solid;
+   display: flex;
+   justify-content: space-between;
+   background-color: aquamarine;
+   border-radius: 5px;
+  }
+  #wallet_balance{
+   
+    height: 50%;
+    width: 30px;
+    margin-top: 2%;
+    font-size: 25px;
+    font-weight: bolder;
+  }
+  .voucher{
+    margin-top: 5%;
+    margin-left: 2%;
+    width: 30%;
+    border: 1px solid;
+    border-radius: 5px;
+  }
+  #voucher_list{
+    display: flex;
+    flex-wrap: wrap;
+  }
+  .buy_voucher{
+    border: 1px solid;
+  }
